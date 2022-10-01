@@ -1,4 +1,4 @@
-<div align=center><h2>✨Choi Se Eun✨</h2></div>
+<div align=center><h1>✨Choi Se Eun✨</h1></div>
 <div align=center><h3>💻 Stacks</h3></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
