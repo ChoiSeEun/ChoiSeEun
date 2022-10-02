@@ -20,6 +20,7 @@
   
 <div align=center><h3>🔗 Link</h3></div>
   <a href="https://ruddy-mule-9a2.notion.site/7465cf87dc48408b8bddc463f25f3f3e" target="_blank"><img src="https://img.shields.io/badge/Portfolio-09A3D5?style=for-the-badge"/></a>
+  <a href="https://velog.io/@seeun329" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=for-the-badge"/></a>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiSeEun&show_icons=true&theme=buefy)
 </div>
