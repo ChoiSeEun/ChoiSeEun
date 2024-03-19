@@ -11,12 +11,13 @@
 <h2>💻 Stacks</h2>
   <div>
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-FC5D0D?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </div>
   <br>
   <div>
-  <img src="https://img.shields.io/badge/oracle-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/oracle-E97627?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/tibero-0014FF?style=for-the-badge&logo=tibero&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
 
@@ -24,7 +25,7 @@
 
 <h2>💡 Career</h2>
 <p>
-  - <b>TmaxTibero</b> DB1-2Team Researcher / 2024.02 ~
+  - <b>TmaxTibero</b> DB1-2 Team Researcher / 2024.02 ~
 </p>
 <p>
   - <b>OneDayOneCommunication</b> Machine Learning Engineer / 2021.12 ~ 2022.12
