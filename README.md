@@ -25,7 +25,7 @@
 
 <h2>💡 Career</h2>
 <p>
-  - <b>TmaxTibero</b> Optimizer Team Researcher / 2024.02 ~
+  - <b>TmaxTibero</b> Researcher / 2024.02 ~
 </p>
 <p>
   - <b>OneDayOneCommunication</b> Machine Learning Engineer / 2021.12 ~ 2022.12
