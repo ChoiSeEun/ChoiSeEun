@@ -1,6 +1,5 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+My+Repository!;&height=25&size=15&color=f5bc2c&repeat=false)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?text=Choi%20Se%20Eun👩‍💻&type=transparent&animation=fadeIn&color=FFF400&fontSize=35&fontAlign=15)
 
 <h2>👋 Hi, there</h2>
