@@ -52,7 +52,7 @@
 
 <p><b>Hyundai-AutoEver</b> · Data Engineering Service Team <code>2026.07 ~</code></p>
 <p><b>TmaxTibero</b> · Database Engine Development Researcher <code>2024.02 ~ 2026.07</code></p>
-<p><b>OneDayOneCommunication</b> · Machine Learning Engineer <code>2021.12 ~ 2022.12</code></p>
+<p><b>OneDayOneCommunication</b> · Machine Learning Engineer (Student Intern) <code>2021.12 ~ 2022.12</code></p>
 
 </div>
 
