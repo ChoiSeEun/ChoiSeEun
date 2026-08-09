@@ -23,10 +23,11 @@
 **Core**
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/apache%20airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
-<img src="https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-<img src="https://img.shields.io/badge/apache%20hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
+<img src="https://img.shields.io/badge/scala-003B57?style=for-the-badge&logo=scala&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
 <img src="https://img.shields.io/badge/trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
