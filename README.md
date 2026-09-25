@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=38BDF8&height=200&text=Choi%20Se%20Eun👩‍💻&animation=fadeIn&fontSize=40&fontAlignY=35&desc=Data%20Engineer&descAlignY=60&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=venom&color=f7d55e&height=200&text=Choi%20Se%20Eun👩‍💻&animation=fadeIn&fontSize=40&fontAlignY=35&desc=Data%20Engineer&descAlignY=60&descSize=20)
 
 </div>
 
@@ -9,7 +9,7 @@
 
 ### 👋 About Me
 
-<p>I want to create meaningful value from data.</p>
+<p>I am a data engineer who wants to connect the hidden value within data to changes in daily life.</p>
 <p>I'm particularly interested in building reliable data systems and continuously learning how to collect, process, and utilize data effectively.</p>
 
 </div>
@@ -48,7 +48,6 @@
 
 ### 💼 Career
 
-<!-- 필요 시 문구 수정 -->
 
 <p><b>Hyundai-AutoEver</b> · Data Engineering Service Team <code>2026.07 ~</code></p>
 <p><b>TmaxTibero</b> · Database Engine Development Researcher <code>2024.02 ~ 2026.07</code></p>
@@ -74,10 +73,12 @@
 ### 📫 Contact
 
 <a href="mailto:choiseeun24@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-e3e1da?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/choi-se-eun" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-e3e1da?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
+<a href="https://choi-se-eun.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Page-e3e1da?style=for-the-badge&logo=web&logoColor=white">
+</a>
 </div>
