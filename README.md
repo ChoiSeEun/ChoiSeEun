@@ -20,26 +20,25 @@
 
 ### 🛠 Tech Stack
 
-**Core**
+**Language**
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/scala-003B57?style=for-the-badge&logo=scala&logoColor=white">
+<img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
+<img src="https://img.shields.io/badge/java-FC5D0D?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
+
 <br>
+
+**Tool**
+
 <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
 <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
-<img src="https://img.shields.io/badge/trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white">
-<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-
-<br><br>
-
-<sub>**Also worked with**</sub>
-
-<img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/java-FC5D0D?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/tibero-0014FF?style=flat-square&logo=tibero&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-E97627?style=flat-square&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/tibero-0014FF?style=for-the-badge&logo=tibero&logoColor=white">
+<img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white">
 
 </div>
 
